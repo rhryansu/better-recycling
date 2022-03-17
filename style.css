@@ -9,7 +9,10 @@
 body
 {   
     min-height: 100vh;
-    background: linear-gradient(#ffffff, #9fe790);
+    background-image: url(/images/main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 header
 {
@@ -21,15 +24,17 @@ header
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 10000;
 }
 header .logo
 {
-    color: rgba(0, 0, 0, 0.7);
+    color: #304e20;
     font-weight: 700;
     text-decoration: none;
     font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 2px;
+    text-shadow: 0.5px 0.5px #2b1055;
 }
 header ul
 {
@@ -45,17 +50,79 @@ header ul li
 header ul li a
 {
     text-decoration: none;
+    font-size: large;
+    font-weight: 500;
     padding: 6px 15px;
-    color: rgba(0, 0, 0, 0.7);
+    color: #c1d180;
+    text-shadow: 1px 1px #2b1055;
 }
 header ul li a:hover,
 header ul li a.active
 {
     
-    color: #ffffff;
+    color: #8bcec6;
 }
-#main
+section::before
+{
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to top, #fff, transparent);
+    z-index: 1000;
+}
+section
+{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+}
+section img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* #main
 {
     max-width: 100%;
     max-height: 100%;
+} */
+#protect
+{
+    position: inherit;
+    color: #ffffff;
+    white-space: nowrap;
+    font-size: 5vw;
+    padding-top: 59%;
+    padding-left: 30%;
+    
+}
+#victoria
+{
+    position: inherit;
+    padding-left: 1000px;
+    /* padding-top: 50%; */
+    color: #ffffff;
+    white-space: nowrap;
+    font-size: 5vw;
+}
+#btn
+{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 40px;
+    background: #fff;
+    color: #2b1055;
+    font-size: 1.5em;
+    z-index: 9;
+}
+.tableauPlaceholder
+{
+    padding-left: 20px;
 }
