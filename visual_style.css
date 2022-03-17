@@ -19,7 +19,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: 10%;
+    margin-top: 25%;
     margin-bottom: 5%;
 }
 header
@@ -116,4 +116,8 @@ hr{
     text-align: center;
     font-size: x-large;
     color: #fff;
+}
+.placeholder{
+    position: relative;
+    margin-top: 10px;
 }
