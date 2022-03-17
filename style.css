@@ -48,8 +48,14 @@ header ul li a
     padding: 6px 15px;
     color: rgba(0, 0, 0, 0.7);
 }
-header ul li a:hover
+header ul li a:hover,
+header ul li a.active
 {
-    background: #ffffff;
-    color: #2db94c;
+    
+    color: #ffffff;
+}
+#main
+{
+    max-width: 100%;
+    max-height: 100%;
 }
