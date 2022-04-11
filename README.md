@@ -9,11 +9,14 @@ HTML / CSS / Javascript
 And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app).
 
 
+
 ## Getting Started
+
 
 ### Prerequisites
 
 * Text editor (VSCode recommended) with live server plugin (recommended, not required)
+
 
 ### installation
 
@@ -34,6 +37,7 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
 -
 
 
+
 ## Contact
 
 Ruihua Su - rh.ryan.su@gmail.com, rsuu0005@student.monash.edu
@@ -41,6 +45,7 @@ Ruihua Su - rh.ryan.su@gmail.com, rsuu0005@student.monash.edu
 Monash IE TP04 - 5PoorGuy
 
 Project Link: https://github.com/rhryansu/protecturskin
+
 
 
 ## Acknowledgments
