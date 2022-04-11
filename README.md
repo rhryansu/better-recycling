@@ -1,3 +1,45 @@
+<div align="center">
+
+  <h3 align="center">Protect Your Skin</h3>
+
+  <p align="center">
+    A Website that exclusively help people in rural area with prevent their skin from sun-burn problems.
+    <br /><br />
+    <a href="https://github.com/rhryansu/protecturskin"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/rhryansu/protecturskin">View Demo</a>
+    ·
+    <a href="https://github.com/rhryansu/protecturskin/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/rhryansu/protecturskin/issues">Request Feature</a>
+  </p>
+</div>
+<br />
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## About the Project
 
 **This repository is dedicated for www.protecturskin.social for FIT5120 Industry Experience 2022S1 held by Monash University.**
