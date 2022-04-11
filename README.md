@@ -3,7 +3,7 @@
   <h3 align="center">Protect Your Skin</h3>
 
   <p align="center">
-    A Website that exclusively help people in rural area with preventing their skin from sun-burn problems.
+    A Website that exclusively helps people in rural area with preventing their skin from sun-burn problems.
     <br /><br />
     <a href="https://github.com/rhryansu/protecturskin"><strong>Explore the docs »</strong></a>
     <br />
