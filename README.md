@@ -7,7 +7,7 @@
 HTML / CSS / Javascript
 
 And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app).
-
+<br />
 
 
 ## Getting Started
@@ -31,13 +31,11 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
    b) If you have not installed live server plugin yet, then simply open the `index.html`  in the explorer (windows)/ finder (macOS).
 
 
-
+<br />
 ## License
 
 -
-
-
-
+<br />
 ## Contact
 
 Ruihua Su - rh.ryan.su@gmail.com, rsuu0005@student.monash.edu
@@ -47,7 +45,7 @@ Monash IE TP04 - 5PoorGuy
 Project Link: https://github.com/rhryansu/protecturskin
 
 
-
+<br />
 ## Acknowledgments
 
 -
