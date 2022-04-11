@@ -72,7 +72,11 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
 
    b) If you have not installed live server plugin yet, then simply open the `index.html`  in the explorer (windows)/ finder (macOS).
 
+## Usage
 
+1. Explore and learn sun protection knowledge.
+
+2. Take [quiz test](https://github.com/rhryansu/quiz-app)
 
 ## License
 
