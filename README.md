@@ -34,7 +34,7 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
 
 ## License
 
--
+*temporary unavailable*
 
 
 
@@ -50,4 +50,4 @@ Project Link: https://github.com/rhryansu/protecturskin
 
 ## Acknowledgments
 
--
+*temporary unavaliable*
