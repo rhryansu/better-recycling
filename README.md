@@ -60,7 +60,7 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
 * Text editor (VSCode recommended) with live server plugin (recommended, not required)
 
 
-### installation
+### Installation
 
 1. Clone this repo
 
