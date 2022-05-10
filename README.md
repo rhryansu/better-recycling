@@ -43,7 +43,7 @@
 
 ## About the Project
 
-**This repository is dedicated for www.protecturskin.social for FIT5120 Industry Experience 2022S1 held by Monash University.**
+**This repository is dedicated for www.protecturskin.social**
 
 ### Built With
 
@@ -87,9 +87,7 @@ And is a home-page entrance for [quiz-app](https://github.com/rhryansu/quiz-app)
 
 ## Contact
 
-Ruihua Su - rh.ryan.su@gmail.com, rsuu0005@student.monash.edu
-
-Monash IE TP04 - 5PoorGuy
+Ruihua Su - rh.ryan.su@gmail.com
 
 Project Link: https://github.com/rhryansu/protecturskin
 
