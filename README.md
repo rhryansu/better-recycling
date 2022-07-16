@@ -50,7 +50,7 @@
 HTML / CSS / Javascript
 
 And is a home-page entrance for 
-* [quiz-app](https://github.com/rhryansu/quiz-app).
+* [quiz-app](https://github.com/rhryansu/quiz-app)
 * [sunburn-recognition](https://github.com/rhryansu/sunburn-recognition-model)
 * [sunburn-protection-recommendations](https://github.com/rhryansu/file-uploader-widget)
 
