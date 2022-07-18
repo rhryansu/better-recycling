@@ -27,6 +27,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#feature-preview">Feature Preview</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -47,13 +48,15 @@
 
 ### Built With
 
-HTML / CSS / Javascript
+React.js
+Flask
+TensorFlow
+SpringBoot
 
-And is a home-page entrance for 
-* [quiz-app](https://github.com/rhryansu/quiz-app)
-* [sunburn-recognition](https://github.com/rhryansu/sunburn-recognition-model)
-* [sunburn-protection-recommendations](https://github.com/rhryansu/file-uploader-widget)
-
+## Feature Preview 
+- [ ] Filtering products based on user input for [sunburn protection recommedation](https://github.com/rhryansu/weather-widget)
+- [ ] Replace port exposure with React-Router
+- [ ] Re-design disclaimer for [sunburn recognition](https://github.com/rhryansu/file-uploader-widget)
 
 
 ## Getting Started
@@ -63,24 +66,15 @@ And is a home-page entrance for
 
 * Text editor (VSCode recommended) with live server plugin (recommended, not required)
 
-
-### Installation
-
-1. Clone this repo
-
-   ```git clone https://github.com/rhryansu/protecturskin.git```
-
-2. Open cloned folder with VSCode
-
-   a) If you already installed live server plugin, then find the button bottom right on the vscode window, `Go Live`.
-
-   b) If you have not installed live server plugin yet, then simply open the `index.html`  in the explorer (windows)/ finder (macOS).
-
 ## Usage
 
 1. Explore and learn sun protection knowledge.
 
-2. Take [quiz test](https://github.com/rhryansu/quiz-app)
+2. Take [quiz test](http://protecturskin.social:3000/)
+
+3. Upload a burnt skin photo to [sunburn recognition](http://protecturskin.social:2000/#sec-392d)
+
+4. Type in your location then get a [recommendation](http://protecturskin.social:4000) for sun protection.
 
 ## License
 
