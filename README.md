@@ -48,10 +48,10 @@
 
 ### Built With
 
-React.js
-Flask
-TensorFlow
-SpringBoot
+* React.js
+* Flask
+* TensorFlow
+* SpringBoot
 
 ## Feature Preview 
 - [ ] Filtering products based on user input for [sunburn protection recommedation](https://github.com/rhryansu/weather-widget)
