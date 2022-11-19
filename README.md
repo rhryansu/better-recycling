@@ -90,6 +90,6 @@ Project Link: https://github.com/rhryansu/protecturskin
 
 
 
-## Acknowledgments
+## Acknowledgements
 
 *temporary unavaliable*
